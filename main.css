@@ -1,0 +1,40 @@
+/* add font and font family here */
+
+*
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    padding: 2px;
+}
+
+/* hom page */
+
+   
+/* .class can be reused */
+.header-container-wrapper {
+	background-color: red;
+}
+
+.footer-container-wraper {
+    background-color: blue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 35px;
+    width: 100%;
+}
+
+.greyBackground {
+
+    background-color: rgba(199, 193, 193, 0.4);
+}
+
+/* #id is once */
+#retroGameImage {
+    background-image: url("https://pixabay.com/get/52e8d4414b52a814f6d1867dda35367b1c39dae35b51734e_1920.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
